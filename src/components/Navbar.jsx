@@ -9,7 +9,7 @@ const Navbar = () => {
 
     return (
         <div className="navbar">
-         <span className="logo">Lama chat</span>
+         <span className="logo">Chat</span>
          <div className="user">
             <img src={currentUser.photoURL ? currentUser.photoURL : 'https://okeygeek.ru/wp-content/uploads/2020/03/no_avatar.png'} alt="" />
             <span>{currentUser.displayName}</span>
