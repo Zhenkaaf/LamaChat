@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LamaChat/static/css/main.a9aa51f6.css",
+    "main.js": "/LamaChat/static/js/main.8f32b5f4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/LamaChat/static/js/787.28cb0dcd.chunk.js",
+    "static/media/add-user.png": "/LamaChat/static/media/add-user.ec722b827b849aa0afb7.png",
+    "index.html": "/LamaChat/index.html",
+    "main.a9aa51f6.css.map": "/LamaChat/static/css/main.a9aa51f6.css.map",
+    "main.8f32b5f4.js.map": "/LamaChat/static/js/main.8f32b5f4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/LamaChat/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9aa51f6.css",
+    "static/js/main.8f32b5f4.js"
+  ]
+}
